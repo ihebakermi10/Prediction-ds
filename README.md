@@ -1,2 +1,2 @@
-# iheb_portfolio
+# Homework ENETCOM
 MAKE PREDCTION USING NN
